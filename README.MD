@@ -9,6 +9,10 @@ users.py
 requirements.txt
 ```
 # create wsgi.py
+```
+create wsgi.py or just use my_app.py
+and call my_app:app to execute it
+```
 
 # gunicorn_start.sh for command execute
 ```
